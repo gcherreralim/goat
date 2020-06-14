@@ -1,2 +1,9 @@
-# goat
-Statistical analysis of basketball's Greatest of All Time argument
+# GOAT: A Statistical Analysis of the NBA's Greatest of All Time Argument
+
+Many of the NBA's most high-profile players have made their cases as the best, greatest, and most influential stars within their own generations and throughout its history. It's sparked a conversation amongst fans as to who really is the greatest player to have graced the sports biggest stage. Three players whose names have most often come up in many experts' and critics' lists are players that come from different generations and dominated all throughout their illustrious careers: Kareem Abdul-Jabbar, whose 20-year career displayed a level of longevity and dominance on all levels of the sport that has still been unmatched; Michael Jordan, whose undeniable competitiveness, all-around talent, and winning mentality led to being the most influential star in the game's history; and LeBron James, whose sheer athleticism, drive to make those around him better, and incomparable I.Q. on both ends of the floor have catapulted him to a record-breaking level since entering the league out of high school.
+
+Using 5 statistics-based factors, I was able to use multiple models and methods (e.g. logistic regression, mixed models) to rank each of the three players' relative performances and answer some interesting questions along the way, such as: who had the best production at each age, which teams each of the three performed the best against, and which round of the playoffs brought out the best from the three stars?
+
+DISCLAIMER: Using statistics does not paint a complete picture of a player's contribution to the sport, but does give a more grounded perspective on a more tangible aspect of the argument. Further studies can use more all-encompassing statistics, team statistics, and other intangible measures to provide a clearer and well-rounded perspective on the study.
+
+Full documentation: [GOAT](https://www.gcherreralim.com/nba-goat-report)
